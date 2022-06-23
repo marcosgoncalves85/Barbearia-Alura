@@ -21,9 +21,9 @@ Abra o arquivo index.html
 ```
 
 ### Créditos
-Código e imagens do site criado: https://www.alura.com.br
-Emoji readme github: https://www.webfx.com/tools/emoji-cheat-sheet
-Símbolo unicode: https://unicode-table.com/pt/00A9/
-Fonte externa: https://fonts.google.com/
-Incorporar mapa: https://maps.google.com.br/
-Incorporar vídeo: https://www.youtube.com/
+Código e imagens do site criado: https://www.alura.com.br  
+Emoji readme github: https://www.webfx.com/tools/emoji-cheat-sheet  
+Símbolo unicode: https://unicode-table.com/pt/00A9/  
+Fonte externa: https://fonts.google.com/  
+Incorporar mapa: https://maps.google.com.br/  
+Incorporar vídeo: https://www.youtube.com/  
