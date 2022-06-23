@@ -1,7 +1,7 @@
 # Barbearia Alura
 
 ### :clipboard: Projeto
-Página web criada a partir do curso da [Alura](https://www.alura.com.br/) sobre HTML5 e CSS3 parte 1 a 4. 
+Página web criada a partir do curso da [Alura](https://www.alura.com.br/) sobre HTML5 e CSS3 parte 1 a 4.  
 **Barbearia Alura** é uma página institucional seguindo conceitos de importação de mapa, vídeo e fonte, formulário, tabela, efeitos de hover, responsividade, etc.
 
 [Visualizar projeto](https://barbearia-alura-sand.vercel.app/)
